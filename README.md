@@ -9,10 +9,11 @@ A sheep teaching other sheep how to be a wolf
 - github pages
 - Hyperion reference
 - Artifactory
+- "White label" theming
 
 ### Roc basics  
 _Roc_ solves _JS fatigue_ and provides a better developer experionce (DX)
-Read more http://www.getroc.org/, https://github.com/rocjs/roc [documentation](https://github.com/rocjs/roc/blob/master/docs/README.md)
+Read more http://www.getroc.org/, https://github.com/rocjs/roc, [documentation](https://github.com/rocjs/roc/blob/master/docs/README.md).
 
 ### Roc project components (packages, plugins, templates...)
 > A little confusing to what is what and how it should be used. A little sparse documentation.
@@ -35,6 +36,10 @@ Setup with variables to be able to use cross projects.
 
 ### Storybook
 Minimal app to run/test/develop _React_ components.
+
+### White label theming
+New! All web components should use white label theming. Meaning; designed to always take a theme as input to the component.
+Default theme included in the package, easilly overwritten. Sort of synced with _UX DNA_.
 
 ### Reflections building "Notifications"
 > Truly stand-alone requires some thinking. Do we go full retard?
