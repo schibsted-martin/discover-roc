@@ -1,7 +1,9 @@
 
 ## 2017-04-05
 - How to setup _Storybook_ to be used as your default site for _GitHub Pages_  
-  [/schibsted-martin/roc-notify/HOWTO.md#publish-storybook-to-github-pages](https://github.com/schibsted-martin/roc-notify/blob/master/HOWTO.md#publish-storybook-to-github-pages)
+  [/schibsted-martin/roc-notify/HOWTO.md#publish-storybook-to-github-pages](https://github.com/schibsted-martin/roc-notify/blob/master/HOWTO.md#publish-storybook-to-github-pages)  
+> There are a few different ways to provide your docs/example site to users. Some peope uses the `gh-pages` branch (obviously more related to _GitHub_ users); while others uses the `/docs` folder in the `master` branch.
+> Which one is used does not really matter in my oppinion, since they are essentially the same, but it could be good to know this and probably the "docs" option is more agnostic.
 
 ## 2017-03-27
 A sheep teaching other sheep how to be a wolf
