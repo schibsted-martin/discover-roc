@@ -1,4 +1,8 @@
 
+## 2017-04-05
+- How to setup _Storybook_ to be used as your default site for _GitHub Pages_  
+  [/schibsted-martin/roc-notify/HOWTO.md#publish-storybook-to-github-pages](https://github.com/schibsted-martin/roc-notify/blob/master/HOWTO.md#publish-storybook-to-github-pages)
+
 ## 2017-03-27
 A sheep teaching other sheep how to be a wolf
 
